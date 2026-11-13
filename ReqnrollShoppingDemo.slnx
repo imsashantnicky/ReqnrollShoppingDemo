@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Shopping.BddTests/Shopping.BddTests.csproj" />
+  <Project Path="Shopping/Shopping.csproj" />
+</Solution>
